@@ -22,4 +22,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: haohaohao/ysh:latest
+          tags: 1943138987/vue:latest
